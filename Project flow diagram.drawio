@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T15:21:46.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_5OSWxfGjkFLiL6DoGDa" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T15:58:32.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9n97OP6vDb7Q8SM5tIi-" version="22.1.4" type="github">
   <diagram name="Page-1" id="IyFaSJXehdAYe9SnTWNC">
     <mxGraphModel dx="796" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="XIC-ybf91ITHPClUM8sA-25" value="SQL Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XIC-ybf91ITHPClUM8sA-27" value="Sends data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XIC-ybf91ITHPClUM8sA-27" value="Sends data&lt;br&gt;over WiFi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="400" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-31" value="Sends updates on startup,&lt;br&gt;whenever database changes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
