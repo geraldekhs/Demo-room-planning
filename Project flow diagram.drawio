@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:36:49.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LDg83K6Kxwy9fN_uV-Zq" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T15:21:46.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_5OSWxfGjkFLiL6DoGDa" version="22.1.4" type="github">
   <diagram name="Page-1" id="IyFaSJXehdAYe9SnTWNC">
-    <mxGraphModel dx="682" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XIC-ybf91ITHPClUM8sA-1" value="ESP 32 microcontroller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XIC-ybf91ITHPClUM8sA-1" value="ESP 32 microcontrollers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XIC-ybf91ITHPClUM8sA-2" value="Servotronix motor controllers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XIC-ybf91ITHPClUM8sA-2" value="Motor drives" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-3" value="Moves motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,6 +69,49 @@
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-21" value="Sends and receives commands, motor data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="32.5" y="150" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIC-ybf91ITHPClUM8sA-22" target="XIC-ybf91ITHPClUM8sA-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-22" value="ESP 32" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIC-ybf91ITHPClUM8sA-23" target="XIC-ybf91ITHPClUM8sA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-23" value="Laptop webserver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-24" value="Webpage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIC-ybf91ITHPClUM8sA-25" target="XIC-ybf91ITHPClUM8sA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-25" value="SQL Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-27" value="Sends data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="400" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-31" value="Sends updates on startup,&lt;br&gt;whenever database changes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-37" value="Sends updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="550" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-38" value="ESP 32" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIC-ybf91ITHPClUM8sA-38" target="XIC-ybf91ITHPClUM8sA-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242.5" y="560" as="sourcePoint" />
+            <mxPoint x="292.5" y="510" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIC-ybf91ITHPClUM8sA-40" value="Wired communication for multi-axis systems without motor controllers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="480" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
