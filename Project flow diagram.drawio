@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:35:32.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="54rvh6YpBT2h06Vn7VbG" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T06:30:34.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="17OyikulAsTJervRG-pY" version="22.1.8" type="github">
   <diagram name="Page-1" id="IyFaSJXehdAYe9SnTWNC">
-    <mxGraphModel dx="1077" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,98 +74,98 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-22" value="ESP 32" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="122.5" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XIC-ybf91ITHPClUM8sA-23" target="XIC-ybf91ITHPClUM8sA-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-23" value="Laptop webserver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-24" value="Webpage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XIC-ybf91ITHPClUM8sA-25" target="XIC-ybf91ITHPClUM8sA-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-25" value="SQL Database" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-27" value="Sends data&lt;br&gt;over WiFi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="222.5" y="400" width="125" height="30" as="geometry" />
+          <mxGeometry x="190" y="330" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-31" value="Sends updates on startup,&lt;br&gt;whenever database changes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="392.5" y="460" width="180" height="30" as="geometry" />
+          <mxGeometry x="360" y="390" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-37" value="Sends updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="550" width="180" height="30" as="geometry" />
+          <mxGeometry x="315" y="480" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-38" value="ESP 32" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="122.5" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XIC-ybf91ITHPClUM8sA-38" target="XIC-ybf91ITHPClUM8sA-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="242.5" y="560" as="sourcePoint" />
-            <mxPoint x="292.5" y="510" as="targetPoint" />
+            <mxPoint x="210" y="490" as="sourcePoint" />
+            <mxPoint x="260" y="440" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XIC-ybf91ITHPClUM8sA-40" value="Wired communication for multi-axis systems without motor controllers" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="32.5" y="480" width="160" height="30" as="geometry" />
+          <mxGeometry y="410" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLk0gE1PzRgoltAU9JZa-2" target="HLk0gE1PzRgoltAU9JZa-7">
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="HLk0gE1PzRgoltAU9JZa-2" target="HLk0gE1PzRgoltAU9JZa-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-2" value="ESP 32" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-2" value="ESP 32" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="77.5" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLk0gE1PzRgoltAU9JZa-4" target="HLk0gE1PzRgoltAU9JZa-5">
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HLk0gE1PzRgoltAU9JZa-4" target="HLk0gE1PzRgoltAU9JZa-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-4" value="Laptop webserver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="870" width="120" height="60" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-4" value="Laptop webserver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="587.5" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLk0gE1PzRgoltAU9JZa-5" target="HLk0gE1PzRgoltAU9JZa-4">
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HLk0gE1PzRgoltAU9JZa-5" target="HLk0gE1PzRgoltAU9JZa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-5" value="Webpage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-5" value="Webpage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="587.5" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLk0gE1PzRgoltAU9JZa-7" target="HLk0gE1PzRgoltAU9JZa-4">
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HLk0gE1PzRgoltAU9JZa-7" target="HLk0gE1PzRgoltAU9JZa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-7" value="SQL Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-7" value="SQL Database" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="587.5" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-8" value="Keeps sending current status over WiFi to be stored in database&lt;br&gt;Database checks if data already exists, if no stores it" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="690" width="350" height="30" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-8" value="Keeps sending current status over WiFi to be stored in database&lt;br&gt;Database checks if data already exists, if no stores it" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="620" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-9" value="Sends page updates" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="950" width="180" height="30" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-9" value="Sends page updates" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="677.5" y="880" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-13" value="Webserver keeps querying database for updates to the page" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="800" width="150" height="30" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-13" value="Webserver keeps querying database for updates to the page" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="677.5" y="730" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-15" value="User sends commands" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="950" width="180" height="30" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-15" value="User sends commands" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="467.5" y="880" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#99FF99;" edge="1" parent="1" source="HLk0gE1PzRgoltAU9JZa-4" target="HLk0gE1PzRgoltAU9JZa-2">
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#99FF99;" parent="1" source="HLk0gE1PzRgoltAU9JZa-4" target="HLk0gE1PzRgoltAU9JZa-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="890" as="sourcePoint" />
-            <mxPoint x="460" y="840" as="targetPoint" />
+            <mxPoint x="377.5" y="820" as="sourcePoint" />
+            <mxPoint x="427.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-17" value="Sends messages to ESP32&lt;br&gt;for commands to perform eg.&lt;br&gt;start, stop" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="870" width="180" height="30" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-17" value="Sends messages to ESP32&lt;br&gt;for commands to perform eg.&lt;br&gt;start, stop" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="287.5" y="800" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="HLk0gE1PzRgoltAU9JZa-2" target="HLk0gE1PzRgoltAU9JZa-7">
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="HLk0gE1PzRgoltAU9JZa-2" target="HLk0gE1PzRgoltAU9JZa-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="890" as="sourcePoint" />
-            <mxPoint x="460" y="840" as="targetPoint" />
+            <mxPoint x="377.5" y="820" as="sourcePoint" />
+            <mxPoint x="427.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HLk0gE1PzRgoltAU9JZa-19" value="ESP sends changed current status to database" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="770" width="350" height="30" as="geometry" />
+        <mxCell id="HLk0gE1PzRgoltAU9JZa-19" value="ESP sends changed current status to database" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="700" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
